@@ -1,0 +1,73 @@
+.task1
+{
+    height: 500px;
+    width: 500px;
+    box-sizing: border-box;
+    border: 10px solid hotpink;
+    margin: 40px auto;
+}
+
+.stairway1
+{
+    height: 25%;
+    width: 25%;
+    display: block;
+    background: lime;
+    box-sizing: border-box;
+}
+
+#b1
+{
+    margin-left: 75%;
+}
+
+#b2
+{
+    margin-left: 50%;
+    border: 10px solid grey;
+}
+
+#b3
+{
+    margin-left: 25%;
+}
+
+#b4
+{
+    border: 10px solid grey;
+}
+
+.task2 {
+    height: 500px;
+    width: 500px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.stairway2 {
+    height: 125px;
+    width: 125px;
+    display: block;
+    background: yellow;
+    box-sizing: border-box;
+    border: 10px solid orange;
+}
+
+#bg1
+{
+    width: 25%;
+    background: red;
+    padding-left: 25%;
+}
+
+#bg2 {
+    width: 25%;
+    background: red;
+    padding-left: 50%;
+}
+
+#bg3 {
+    width: 25%;
+    background: red;
+    padding-left: 75%;
+}
